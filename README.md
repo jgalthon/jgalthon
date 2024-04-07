@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I am currently learning about software engineering
+- 🏗️ System architectures interest me the most
 
 <!--
 **jgalthon/jgalthon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
